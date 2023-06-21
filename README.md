@@ -1,6 +1,3 @@
-Certainly! Here's the README in Markdown format:
-
-```markdown
 # React Native Weather App Demo
 
 ![Weather App Demo](https://github.com/Em01/weather-app-demo/raw/main/weather_app_demo.png)
@@ -98,5 +95,3 @@ A special thanks to our Champion and Sponsor supporters:
 - Heather Wcislo
 - Serhiy Kalinets
 ```
-
-Please note that in the markdown format, the README might not render the same way as in a live GitHub repository. However, when you copy and paste the above content into your repository's README.md file, it should appear correctly.
